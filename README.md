@@ -12,14 +12,14 @@
     <img alt="Author" src="https://img.shields.io/badge/Author-tiago--web-%23FF9000">
   </a>
   
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/tiago-web/Gobarber-mobile?color=%23FF9000">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/tiago-web/GoBarber-mobile?color=%23FF9000">
 
-  <a href="https://github.com/tiago-web/Gobarber-mobile/stargazers">
-    <img alt="Stars" src="https://img.shields.io/github/stars/tiago-web/Gobarber-mobile?color=%23FF9000" />
+  <a href="https://github.com/tiago-web/GoBarber-mobile/stargazers">
+    <img alt="Stars" src="https://img.shields.io/github/stars/tiago-web/GoBarber-mobile?color=%23FF9000" />
    </a>
 
-  <a href="https://github.com/tiago-web/Gobarber-mobile/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/tiago-web/Gobarber-mobile?color=%23FF9000">
+  <a href="https://github.com/tiago-web/GoBarber-mobile/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/tiago-web/GoBarber-mobile?color=%23FF9000">
   </a>
 
 </p>
@@ -39,8 +39,8 @@
 
 This project aims to facilitate the connection between barbers and customers. In the app, they can easily log in and schedule a haircut.
 
-To see the **api**, click here: [GoBarber Rest API](https://github.com/tiago-web/Gobarber-api)</br>
-To see the **web client**, click here: [GoBarber Web](https://github.com/tiago-web/Gobarber-web)
+To see the **api**, click here: [GoBarber Rest API](https://github.com/tiago-web/GoBarber-api)</br>
+To see the **web client**, click here: [GoBarber Web](https://github.com/tiago-web/GoBarber-web)
 
 
 # :rocket: Technologies
@@ -68,12 +68,12 @@ Technologies that I used to develop this mobile client
 
 ### Requirements
 
-- Have this application's [API](https://github.com/tiago-web/gobarber-api) running on your machine.
+- Have this application's [API](https://github.com/tiago-web/GoBarber-api) running on your machine.
 
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/tiago-web/gobarber-mobile.git && cd gobarber-mobile
+$ git clone https://github.com/tiago-web/GoBarber-mobile.git && cd GoBarber-mobile
 ```
 
 **Follow the steps below**
@@ -99,7 +99,7 @@ $ yarn ios
 
 ```bash
 # Fork using GitHub official command line
-$ gh repo fork tiago-web/gobarber-mobile
+$ gh repo fork tiago-web/GoBarber-mobile
 
 # If you don't have the GitHub CLI, use the web site to do that.
 ```
@@ -108,7 +108,7 @@ $ gh repo fork tiago-web/gobarber-mobile
 
 ```bash
 # Clone your fork
-$ git clone your-fork-url && cd gobarber-mobile
+$ git clone your-fork-url && cd GoBarber-mobile
 
 # Create a branch with your feature
 $ git checkout -b my-feature
@@ -125,14 +125,14 @@ After your pull request is merged, you can delete your branch
 
 # :hammer: Issues
 
-Feel free to file a new issue with a respective title and description on the [Gobarber-mobile](https://github.com/tiago-web/Gobarber-mobile/issues) repository. 
+Feel free to file a new issue with a respective title and description on the [GoBarber-mobile](https://github.com/tiago-web/GoBarber-mobile/issues) repository. 
 If you already found a solution to your problem, **i would appreciate to review your pull request**!
 
 
 # :book: License
 
 Released in 2020.
-This project is under the [MIT license](https://github.com/tiago-web/Gobarber-mobile/blob/master/LICENSE).
+This project is under the [MIT license](https://github.com/tiago-web/GoBarber-mobile/blob/master/LICENSE).
 
 ---
 

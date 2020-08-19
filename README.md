@@ -22,6 +22,7 @@
     <img alt="Repository issues" src="https://img.shields.io/github/issues/tiago-web/GoBarber-mobile?color=%23FF9000">
   </a>
 
+  <img alt="GitHub" src="https://img.shields.io/github/license/tiago-web/GoBarber-mobile?color=%23FF9000">
 </p>
 
 

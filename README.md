@@ -28,7 +28,7 @@
 
 # :pushpin: Table of Contents
 
-* [About the project](#%EF%B8%8F-about-the-project)
+* [About the project](#haircut-about-the-project)
 * [Technologies](#rocket-technologies)
 * [Getting Started](#checkered_flag-getting-started)
 * [How to contribute](#thinking-how-to-contribute)
@@ -36,7 +36,7 @@
 * [License](#book-license)
 
 
-# 💇🏻‍♂‍ About the project
+# :haircut: About the project
 
 This project aims to facilitate the connection between barbers and customers. In the app, they can easily log in and schedule a haircut.
 

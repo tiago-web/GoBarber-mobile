@@ -51,7 +51,7 @@ export const ProvidersList = styled(FlatList as new () => FlatList<Provider>)`
   padding: 32px 8px;
 `;
 
-export const ProviderContainer = styled(RectButton)<ProviderContainerProps>`
+export const ProviderContainer = styled(RectButton) <ProviderContainerProps>`
   background: ${props => (props.selected ? '#ff9000' : '#3e3b47')};
   flex-direction: row;
   align-items: center;
@@ -71,4 +71,15 @@ export const ProviderName = styled.Text<ProviderNameProps>`
   font-family: 'RobotoSlab-Medium';
   font-size: 16px;
   color: ${props => (props.selected ? '#232129' : '#f4ede8')};
+`;
+
+export const Calendar = styled.View`
+  margin: 0 16px;
+`;
+
+export const CalendarTitle = styled.Text`
+  font-family: 'RobotoSlab-Medium';
+  color: #f4ede8;
+  font-size: 24px;
+  margin-bottom: 24px;
 `;
